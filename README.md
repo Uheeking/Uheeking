@@ -25,7 +25,7 @@
           </div>
     </div>
     <div align= "center"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 My Github Stats </h3> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Uheeking&show_icons=true&theme=vue"
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My Github Stats 🏅 </h3> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Uheeking&show_icons=true&theme=vue"
          /> </div> 
     </div>
 
