@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
         <h3>👩🏻‍💻 FullStack Programmer, Web Developer.</h3> 
         <h3> 🐢 I'm growing everyday.</h3>  
-    </div> <br> 
+    </div> <br /> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack 📚  </h2> 
