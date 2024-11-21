@@ -7,6 +7,13 @@
         <h3>👩🏻‍💻 FullStack Programmer, Web Developer.</h3> 
         <h3> 🐢 I'm growing everyday.</h3>  
     </div> <br /> 
+        <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Uheeking"
+  width="600"
+  height="300"
+/>
+</a>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack 📚  </h2> 
