@@ -7,7 +7,7 @@
         <h3>👩🏻‍💻 FullStack Programmer, Web Developer.</h3> 
         <h3> 🐢 I'm growing everyday.</h3>  
     </div> <br /> 
-        
+    </div>    
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Uheeking?pet-id=647250520685400741"
@@ -15,8 +15,6 @@
     height="120"
   />
 </a>
-  
-    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack 📚  </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
