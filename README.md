@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi!%20I%20am%20Uheeking!&animation=blink&fontColor=ffffff&fontSize=60" />
+    <a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh0KIWaUEIgQ%26list%3DRDh0KIWaUEIgQ%26start_radio%3D1&theme=terminal"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh0KIWaUEIgQ%26list%3DRDh0KIWaUEIgQ%26start_radio%3D1&theme=terminal" alt="SoundBadge" /></a>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Who am i❓ </h2>  
